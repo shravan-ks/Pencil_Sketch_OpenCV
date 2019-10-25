@@ -1,4 +1,4 @@
-import os
+import osd
 import cv2
 import glob
 
